@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://github.com/adajahannahs/recipe-htmlcss-challenge.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://adajahannahs.github.io/recipe-htmlcss-challenge/]
 
 ## My process
 
@@ -37,7 +37,7 @@ I learned how to use both the ordered and unordered list, pretty simple
 
 
 ```html
-<ol>Some HTML code I'm proud of</ol>
+<ol>    </ol>
 ```
 ```css
  .box-container li::marker {
